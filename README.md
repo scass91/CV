@@ -76,7 +76,7 @@ I have consistently sought out opportunities to improve efficiency of processes 
 **Motability Operations** (August 2014 to June 2016)   
 *Junior Analyst (Pricing Analyst)*  
 **Boost Capital** (August 2013 to July 2014)
-*Junior Analyst (Funding Analyst)*
+*Junior Analyst (Funding Analyst)*  
 **DC Leisure** (September 2008 to August 2011)
 *Lifeguard*
 
