@@ -28,15 +28,26 @@
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-
-
 ## Simon Cass
 
-A resourceful and results-driven individual with five years' experience working in numerical analytical roles with a recent focus on asset risk. I have a proven track record in taking ownership of large portfolios and acting proactively to minimise business financial risk. I am seeking new challenges in a new industry after an enjoyable start to my career in the automotive industry.
+A resourceful and results-driven individual with five years' experience working in numerical analytical roles with a recent focus on asset risk. I am seeking new challenges in a new industry after an enjoyable start to my career. 
 
-Currently I am on an intensive training course at Makers Academy in London. I have a Mathematics degree with a years study abroad in the US, and I am a keen traveller having visited 30 different countries so far.
+I am a full-stack junior developer, recently graduated from Makers, and am looking for a role where I can continue to learn and grow at a rapid pace. I have a Mathematics degree, with a years study abroad in the US, and I am a keen traveller having visited 30 different countries so far.
+
+## Projects
+
+| Title | Description | Technologies | Testing | Timeframe | Type |
+|--|--|--|--|--|--|
+| [Tap N Run](https://github.com/scass91/tapNrun) | For our final project, my group created a simple athletics themed game using Javascript. The game features multiplayer capability as well as computer-powered players | Javascript, HTML/CSS, TravisCI, Github Pages | Jasmine, Karma | 2 weeks | Group Project |
+| [Chitter](https://github.com/scass91/chitter-challenge) | This is a twitter clone recreated with Ruby | Ruby, HTML/CSS,  | RSpec, TravisCI, PostgreSQL, Rubocop | Weekend Challenge | Solo Project |
+| [Gilded Rose](https://github.com/scass91/GildedroseJS) | This is my attempt at a classic refactoring Kata in Javascript| Javascript, ESLint | Jasmine | 3 days | Individual Project |
+
 
 ## Skills
+
+#### Clean Code
+
+Throughout my time at Makers Academy I learned about the merits of having a readable codebase, as well as the potential pitfalls which can happen if a codebase is not readable. During the course, programming principles such as SOLID & DRY, as well as exposure to XP values in group situtations were all utilised to ensure best practice. TDD is a huge driver in keeping code efficient, clean & as bug-free as possible - I am a huge fan of this approach to developing software. 
 
 #### Communication
 
@@ -50,16 +61,13 @@ I have consistently sought out opportunities to improve efficiency of processes 
 
 ## Education
 
-#### Makers Academy (November 2018 to March 2018)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+#### Makers Academy (November 2018 to March 2019)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, Karma
+- TravisCI, Heroku
 
 #### University of Hertfordshire (2009 to 2013)
 
@@ -77,8 +85,6 @@ I have consistently sought out opportunities to improve efficiency of processes 
 *Junior Analyst (Pricing Analyst)*  
 **Boost Capital** (August 2013 to July 2014)    
 *Junior Analyst (Funding Analyst)*  
-**DC Leisure** (September 2008 to August 2011)    
-*Lifeguard*
 
 #### Other information
 
