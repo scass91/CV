@@ -15,13 +15,13 @@
 
 ## Simon Cass
 
-A resourceful and results-driven individual with one years' experience of software development within a large and fast moving team, focused on iOS development. Prior to this I gained five years' experience working in numerical analytical roles. I am seeking further opportuinities to enhance my own learnings and to add value to engineering teams.
+A resourceful and results-driven individual with one years' experience of software development within a large and fast moving team, focused on iOS development. Prior to this I gained five years' experience working in numerical analytical roles. I am seeking further opportunities to enhance my own learnings and to add value to engineering teams.
 
 ## Technical Experience
 
 #### Babylon Health
 
-At Babylon Health I am tasked with ownership of one of our whitelabel apps. This means working within a small squad to meet the requirements of one of our external partners. I am solely responsible for releasing this app to the App Store, applying necessary fixes and implementing new features and functionality, in collaboration with UX designers and product owners. My time at Babylon has exposed me to agile development practices, testing (unit/automation/snapshot), and cross-functional, cross-platform working practices. 
+At Babylon Health I am tasked with ownership of one of our white label apps. This means working within a small squad to meet the requirements of one of our external partners. I am solely responsible for releasing this app to the App Store, applying necessary fixes and implementing new features and functionality, in collaboration with UX designers and product owners. My time at Babylon has exposed me to agile development practices, testing (unit/automation/snapshot), and cross-functional, cross-platform working practices. 
 
 At Babylon Health I use Swift, with a focus on functional programming via [Reactive Swift](https://github.com/ReactiveCocoa/ReactiveSwift). The app is built using an MVVM architecture pattern to develop each screen. 
 
@@ -37,13 +37,13 @@ This approach is further driven home at Babylon - with a large team of developer
 
 During my time at Motability Operations I frequently attended meetings with senior stakeholders and was responsible for communicating the findings of our team in a simple, non-technical way to various members of the business. I was often asked to give recommendations on what actionable steps should be taken in order to meet our business goals, working strategically and collaboratively with other team members in the process. 
 
-At Babylon Health I am the iOS engineer responsible for one of our largest whitelabel apps. Here, I have to communicate to both technical and non-technical members of the wider business on a consistent basis about the status of the app, as well as giving input on future directives and scoping of ideas to improve efficiencies.
+At Babylon Health, I am the iOS engineer responsible for one of our largest white label apps. Here, I have to communicate to both technical and non-technical members of the wider business on a consistent basis about the status of the app, as well as giving input on future directives and scoping of ideas to improve efficiencies.
 
 #### Creative & Critical thinker
 
 I have consistently sought out opportunities to improve the efficiency of processes throughout my career. During my time as a Pricing Analyst, I proactively rewrote a manual report using Business Objects and VBA macros so that it would automatically refresh, saving several hours of analysts' time per month. As a result, I had more time to spend on tasks which added significant value to the team.
 
-At Babylon Health I updated our Github bot so it would automatically add or delete labels from pull requests based on the number of reviews a given PR has - this is another example of making a small change to improve overall efficiency.
+At Babylon Health, I updated our GitHub bot so it would automatically add or delete labels from pull requests based on the number of reviews a given PR has - this is another example of making a small change to improve overall efficiency.
 
 ## Education
 
