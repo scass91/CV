@@ -64,7 +64,7 @@ At Babylon Health I updated our Github bot so it would automatically add or dele
 ## Work Experience
 
 **Babylon Health** (April 2019 - present)
-*Junor iOS Engineer*
+*Junior iOS Engineer*
 
 **Motability Operations** (June 2016 to November 2018)    
 *Senior Analyst (Vehicle Risk Analyst)*  
