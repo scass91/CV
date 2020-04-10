@@ -65,10 +65,12 @@ At Babylon Health I updated our Github bot so it would automatically add or dele
 
 **Babylon Health** (April 2019 - present)
 *Junor iOS Engineer*
+
 **Motability Operations** (June 2016 to November 2018)    
 *Senior Analyst (Vehicle Risk Analyst)*  
+
 **Motability Operations** (August 2014 to June 2016)   
-*Junior Analyst (Pricing Analyst)*  
+*Junior Analyst (Pricing Analyst)*   
 
 #### Other information
 
